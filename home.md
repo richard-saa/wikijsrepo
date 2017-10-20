@@ -4,4 +4,6 @@
 # Homepage
 
 ## heading 2
-mooi man
+Tekst hier
+
+En nog meer hier
